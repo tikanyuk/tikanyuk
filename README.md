@@ -8,3 +8,4 @@
 tikanyuk/tikanyuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://debank.com/profile/0xde910685744fd007012185664f707ae9bab4c530
